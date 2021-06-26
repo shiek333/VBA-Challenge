@@ -16,3 +16,4 @@ VBA-challenge is a project to create a VBA script for analyzing stock market dat
 5. Click Run Sub button
 
 *To ensure for best results, pre-format stock market data in this order: ticker name, date, open price, high price, low price, close price, and volume*
+![Stock_Data_and_Analysis_Preview](https://github.com/shiek333/VBA-challenge/blob/main/Stock_Year_2016.jpg)
